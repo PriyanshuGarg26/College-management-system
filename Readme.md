@@ -1,0 +1,1 @@
+This College management system is built using Django Framework. In this project , the admin can manage a new course ,new admission, fees plan and student attendance whereas students can see their attendance and fees plan.
